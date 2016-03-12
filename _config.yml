@@ -1,0 +1,28 @@
+name: Bay Area Smart Home
+favicon: null
+layout_spectrum: 0.1380611404310912
+typography_spectrum: 0.11490197689272463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6612135008908808
+  lightness: 0.6318052099086344
+  saturation: 0.35851047188043594
+  rhythmicContrast: 0.0234603313729167
+purpose: []
